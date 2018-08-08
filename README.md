@@ -1,10 +1,10 @@
 # gene_lights
 Turn a genome into scrolling Christmas lights
 
-**Summary**
+## Summary
 Read in a fasta a file and turn each base into a trail of lights.
 
-**Usage**
+## Usage
 Copy gene_lights.py into a directory with a fasta file or the default RUNX1.fa
 
 python gene_lights [options]
