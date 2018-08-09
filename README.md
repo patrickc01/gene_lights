@@ -21,3 +21,5 @@ python gene_lights.py [options]
 -d delay, how fast the lights move  
 -s separation between lights  
 
+## Acknowledgements
+This script was based off strandtest.py, thank you!
