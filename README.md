@@ -5,7 +5,7 @@ Turn a genome into scrolling Christmas lights
 Read in a fasta file and turn each base into a trail of lights.
 RUNX1.fa
 
-![] /source/gene_lights_RUNX1
+![] /source/gene_lights_RUNX1.gif
 
 ## Requirements
 Raspberry Pi  
