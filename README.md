@@ -22,4 +22,4 @@ python gene_lights.py [options]
 -s separation between lights  
 
 ## Acknowledgements
-This script was based off strandtest.py, thank you!
+This script was based off strandtest.py.
