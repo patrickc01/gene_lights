@@ -1,5 +1,5 @@
 # gene_lights
-Turn a genome into scrolling Christmas lights
+Turn a genome into scrolling lights
 
 ## Summary
 Read in a fasta file and turn each base into a trail of lights.
